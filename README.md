@@ -1,6 +1,6 @@
 ### 👉 About me
 
-I’m an observational cosmologist, analyzing the large scale structure of the Universe to better understand its evolution and the underlying laws of physics. I am particularly interested in the most massive bound structures in our Universe : Galaxy Clusters. I use data from different instruments at different wavelengths to characterize them, and better understand their physics. In the past years I was mostly focus in the preparation of the cosmological analyses of the Vera C. Rubin Observatory data.
+I’m an observational cosmologist, analyzing the large scale structures of the Universe to better understand its evolution and the underlying laws of physics. I am particularly interested in the most massive bound structures in our Universe : Galaxy Clusters. I use data from different instruments at different wavelengths to characterize them, and better understand their physics. In the past years I was mostly focus in the preparation of the cosmological analyses of the Vera C. Rubin Observatory data.
 
 ###  🔭 Collaborations and projects
 - I am deeply involved in the [Dark Energy Science Collaboration (DESC)](https://lsstdesc.org/) of the Vera C. Rubin Large Synoptic Survey of Space and Time (LSST). I'm also currently part of the comissioning team for the [Rubin Observatory](https://rubinobservatory.org/). 
